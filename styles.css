@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+.top-container{
+  background-color:  #F9EBC8;
+  position: relative;
+  padding-top: 200px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  font-size: 90px;
+  color: #66BFBF;
+  position: relative;
+  top: 40px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.bottom-cloud{
+  position: absolute;
+  left :300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.image-profile{
+  height: 200px;
+}
+a{
+    color: #11999E;
+}
+.skill-img{
+    height: 220px;
+    float: left;
+    margin-right: 40px;
+}
+.education{
+    height: 220px;
+    float: right;
+    position: relative;
+    right: 40px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
